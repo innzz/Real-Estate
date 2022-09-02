@@ -12,6 +12,7 @@ const Layout = ({children})=>{
         <Box maxWidth="1200px" m="auto">
             <header>
                 <Navbar />
+                
             </header>
             <main>
                 {children}
